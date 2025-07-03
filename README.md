@@ -1,4 +1,4 @@
-fu# 🚀 Hackathon 2.0: "The Fundi Connect Challenge"
+Hackathon 2.0: "The Fundi Connect Challenge"
 ## *From Invisible to Invaluable: Revolutionizing Local Service Discovery*
 
 ---
