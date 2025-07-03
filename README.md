@@ -1,3 +1,22 @@
+
+Hackathon 2.0
+“From Idea to Income: Building Monetizable Tools”
+
+
+Theme Goals - Solve real, everyday problems - Build using AI + low-code (no heavy dev) - Focus on speed-to-market and early revenue - Empower small businesses, communities, and individuals
+
+ 
+
+Problem Statements & Challenges
+ 1. Fundis & Freelancers Booking Bot
+
+Problem: Fundis, cleaners, tutors, and other local freelancers miss out on clients because they don’t have
+
+booking tools or visibility.
+
+Challenge: Build a WhatsApp-based or mobile web tool where clients can find, book, and pay trusted service providers.
+
+
 Hackathon 2.0: "The Fundi Connect Challenge"
 ## *From Invisible to Invaluable: Revolutionizing Local Service Discovery*
 
