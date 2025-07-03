@@ -1,4 +1,4 @@
-You can view it the project at: https://astounding-youtiao-a80159.netlify.app
+You can view the project at: https://astounding-youtiao-a80159.netlify.app
 
 
 Hackathon 2.0
